@@ -17,3 +17,6 @@ Mini Guide:
 5.Access live website from the link GitHub gives.
 
 6.Try customizing with CSS.
+
+
+Live website link - https://kartik22gujar.github.io/simple-HTML-website-using-GitHub-Pages/#home
