@@ -5,8 +5,8 @@ Tools: GitHub Pages
 Deliverables: Live website link and GitHub repo
 
 Mini Guide:
-Create 
-1. an index.html file.
+ 
+1.Create an index.html file.
 
 2.Push it to a new GitHub repo.
 
